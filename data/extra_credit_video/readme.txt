@@ -1,0 +1,1 @@
+Your output video will live in this folder.

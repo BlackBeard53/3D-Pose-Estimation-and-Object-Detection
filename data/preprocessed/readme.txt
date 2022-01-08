@@ -1,0 +1,1 @@
+This folder holds the video broken into frames.
